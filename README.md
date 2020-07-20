@@ -7,6 +7,7 @@ See fourm discussion https://meshtastic.discourse.group/t/building-for-nrf52-boa
 
 Features are: 
 - 110x50mm  
+- low power consumption in receive mode and Bluetooth active: about 20mA for the 30dbm and 10mA for the 22dbm module version  
 - nRF52840 module by Waveshare/HolyIOT with native USB bootloader, broken out NFC pins and good Arduino support (Adafruit Core)  
 - Ebyte E22 LoRa Modules based on new Semtech SX126x chipsets for 22 or 30dbm and 915,868,433...Mhz frequency bands. 
 - Footprint for both the big and the small LoRa module (the boost converter doesn't need to be assembled if the smaller one is used)  
