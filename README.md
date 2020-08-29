@@ -14,7 +14,7 @@ Features are:
 - Footprint for both the big and the small LoRa module (the boost converter doesn't need to be assembled if the smaller one is used)  
 - SD card slot (same card holder as in the Adafruit Adalogger boards  
 - On board buzzer  
-- GPS connector breaking out RXD and TXD (JST-SH 4-pin) with high-side power cutting option. Powered either from the battery voltage or from 5V (select via solder jumper)  
+- GPS connector breaking out RXD and TXD (JST-SH 4-pin) with high-side power cutting option.   
 - Many screen options: usual 128x64 OLEDs via I2C or sunlight-readable and power-efficient ST7565R and UC1701X LCD screens via bitbanged 4 line SPI (see BOM for variants)  
 - display headers can be expansion headers  
 - 3 nav buttons  
