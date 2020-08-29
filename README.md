@@ -1,8 +1,8 @@
 # LoRa-BLE-Relay-v2
 second version of the nRF52840 and SX126x-based communication device intended to run Meshtastic-
-This version is in the testing process. Warning: wait for v2.1 before ordering the PCB. Some important PCB design bugs have been identified and have to be fixed first!!
+This version is in the testing process. Not confirmed working yet.
 
-![LoraRelayV2](https://github.com/BigCorvus/LoRa-BLE-Relay-v2/blob/master/relay2.0.png)  
+![LoraRelayV2](https://github.com/BigCorvus/LoRa-BLE-Relay-v2/blob/master/BLE-LORA-Relay-v2.1brd.png)  
 See fourm discussion https://meshtastic.discourse.group/t/building-for-nrf52-boards/457/62  
 
 Features are: 
@@ -23,6 +23,8 @@ Features are:
 - battery temperature monitoring/environmental sensing via BME280  
 - USB-C connector
 - power management via TI fuel gauge IC with optional programmable power cutting option  (selectable via solder jumper, experimental!) 
+
+To do in next version: reverse polarity protection for batteries.
 
 
 Installation of the Arduino variant: put the variant.h and .cpp in a folder named LoRaBLERelayV2 which has to be created inside the variants folder of the nrf52 core. There you also have boards.txt which you have to extend by the content of the boards.txt inside this repo.  
