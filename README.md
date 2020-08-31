@@ -6,8 +6,8 @@ This version is in the testing process. Not confirmed working yet.
 See fourm discussion https://meshtastic.discourse.group/t/building-for-nrf52-boards/457/62  
 
 The initial 2.0 version:  
-![LoraRelayV2](https://github.com/BigCorvus/LoRa-BLE-Relay-v2/blob/master/lorablerelayv2-0.jpeg)  
-![LoraRelayV2s](https://github.com/BigCorvus/LoRa-BLE-Relay-v2/blob/master/lorablerelayv2-0solar.jpeg)  
+![LoraRelayV2](https://github.com/BigCorvus/LoRa-BLE-Relay-v2/blob/master/lorablerelayv2-0.jpg)  
+![LoraRelayV2s](https://github.com/BigCorvus/LoRa-BLE-Relay-v2/blob/master/lorablerelayv2-0solar.jpg)  
 
 Features are: 
 - 110x50mm  
