@@ -5,6 +5,10 @@ This version is in the testing process. Not confirmed working yet.
 ![LoraRelayV2](https://github.com/BigCorvus/LoRa-BLE-Relay-v2/blob/master/BLE-LORA-Relay-v2.1brd.png)  
 See fourm discussion https://meshtastic.discourse.group/t/building-for-nrf52-boards/457/62  
 
+The initial 2.0 version:  
+![LoraRelayV2](https://github.com/BigCorvus/LoRa-BLE-Relay-v2/blob/master/lorablerelayv2-0.jpeg)  
+![LoraRelayV2s](https://github.com/BigCorvus/LoRa-BLE-Relay-v2/blob/master/lorablerelayv2-0solar.jpeg)  
+
 Features are: 
 - 110x50mm  
 - more ground plane for better LoRa RF performance
